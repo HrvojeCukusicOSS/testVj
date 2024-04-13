@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p>Test ispis</p>
+      <p>Test</p>
     </>
   )
 }
